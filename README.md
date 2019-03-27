@@ -9,9 +9,13 @@ Winner of AXA’s Annual Global Innovation competition as a result of designing 
 #(Makers skills to be added) -- 
 
 **B2B Business development**  – Prospecting, identify and qualifying new leads and converting these into business opportunities
+
 **Relationship building** – Ability to build rapport swiftly with new contacts and develop long standing business relationships 
+
 **Marketing** – Devise and implement sales marketing ideas, write and distribute newsletters, drive inbound sales through corporate company social media accounts 
+
 **Management information / data analytics** – Monitor and manage performance of sales function via excel, google docs/sheets and CRM systems.
+
 **Technology** – Interested in new technology; advanced user of Salesforce, Pipedrive, Freshsales Mailchimp, Matrix Solutions and Microsoft Office
 
 ## Career History
