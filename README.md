@@ -1,5 +1,7 @@
 ## Stuart Pethurst
 
+[Key Skills](#key-skills) | [Projects](#projects) | [Career History](#career-history) | [Professional Achievements and Qualifications](#professional-achievements-and-qualifications) | [LinkedIn](https://www.linkedin.com/in/stuartpethurst/)
+
 Makers Academy graduate with a passion for code and a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. Looking for a full stack Ruby/ Rails junior developer position.
 
 Ex B2B Sales professional with experience in taking new SaaS products to market within the fintech & employee benefits industry. Experience working in start-ups, mid-cap and large corporate organisations.   
