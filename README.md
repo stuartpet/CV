@@ -2,6 +2,8 @@
 
 Makers Academy graduate with a passion for code and a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. Looking for a full stack Ruby/ Rails junior developer position.
 
+Ex B2B Sales professional with experience in taking new SaaS products to market within the fintech & employee benefits industry. Experience working in start-ups, mid-cap and large corporate organisations.   
+
 Winner of AXA’s Annual Global Innovation competition as a result of designing a new business generation app focussing on Big Data. Subsequently worked with a team of developers in Paris to produce a prototype using APIs to link wearable trackers to a benefit driven app to encourage better health and lower cost insurance.
 
 ## Key Skills
@@ -14,23 +16,24 @@ Winner of AXA’s Annual Global Innovation competition as a result of designing 
 * **Communication** – skilled communicator with the ability to build rapport swiftly with new people and teams
 
 ## Projects
+For a complete list, see my [GitHub](https://github.com/stuartpet?tab=repositories)
 
-
-
-**B2B Business development**  – Prospecting, identify and qualifying new leads and converting these into business opportunities
-
-**Relationship building** – Ability to build rapport swiftly with new contacts and develop long standing business relationships 
-
-**Marketing** – Devise and implement sales marketing ideas, write and distribute newsletters, drive inbound sales through corporate company social media accounts 
-
-**Management information / data analytics** – Monitor and manage performance of sales function via excel, google docs/sheets and CRM systems.
-
-**Technology** – Interested in new technology; advanced user of Salesforce, Pipedrive, Freshsales Mailchimp, Matrix Solutions and Microsoft Office
+| Projects  	| Description                                              	| Technologies 	|   
+|:---------:	|:--------------------------------------------------------:	|:------------:	|
+| [Acebook](https://github.com/stuartpet/acebook-steam)         	|   A facebook clone team project to help us learn CICD  |   Travis, Heruko, Rails, Rspec Devise, CSS, HTML           	| 
+| [Stargazer](https://github.com/jo-quin/stargazer)          	|   Final project, built a stargazing IOS augmented reality app, teaching ourselves xcode, swift and astrology in 2 weeks                                                    	|  Swift, Xcode, ARkit, SceneKit          	|   	
 
 ## Career History
 
 **Makers Academy** (April 2019 - June 2019)
-Makers is an intensive 16 week coding bootcamp helping people train for a career in development.
+Makers Academy -  a 16-week intensive development bootcamp, focusing on:
+
+* Agile methodologies
+* Object-oriented design
+* Test driven development and behaviour driven development
+* Pair programming
+* XP values
+
 
 **B2E Technologies** (May 2018 - March 2019)
 b2e technologies (part of SBC Systems) is a SaaS company specialising in technology that helps manage employee benefit plans.
