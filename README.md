@@ -52,7 +52,7 @@ Project manager for a private property renovation project. Co-ordinated tradesme
 **pensionsync** (Oct 2015 - April 2017)
 pensionsync (part of systemsync solutions Ltd) is an agile financial software company focused on delivering an Application Program Interface (API) solution for auto enrolment data transfer, integrating pension providers with payroll software
 
-**Senior Business Development Manager (London)**                                                        Oct 2015 – Apr 2017
+**Senior Business Development Manager (London)**                                                        
 Reporting directly to the Chief Marketing Officer, I was responsible for bringing the pensionsync product and brand to the market. Prospecting, qualifying and securing new payroll software, middleware and HR partners along with increasing end user numbers 
 
 ---
