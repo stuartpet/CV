@@ -50,11 +50,20 @@ pensionsync (part of systemsync solutions Ltd) is an agile financial software co
 **Senior Business Development Manager (London)**                                                        Oct 2015 – Apr 2017
 Reporting directly to the Chief Marketing Officer, I was responsible for bringing the pensionsync product and brand to the market. Prospecting, qualifying and securing new payroll software, middleware and HR partners along with increasing end user numbers 
 
+**Partnership Assurance Group**  (Jan 2008 - Oct 2014)
+(now part of Just Retirement Group) – Provider of enhanced annuities for individuals with medical or lifestyle conditions
+
+**Business Support Manager**                                                                                      
+Jan 2012 – Jan 2014 
+**Internal Account Manager - Paying for Care**                                                            
+Oct 2011 – Jan 2012
+**Sales Account Manager (Retirement)**                                                                      
+Jan 2010 – Oct 2011                   
+
 ## Professional Achievements and Qualifications
-Certificate in Financial Planning 1, 2 & 3 – Chartered Insurance Institute 
-GNVQ (Merit)
-7 GCSE’s
-
-
+* Graduate of Makers Academy
+* Certificate in Financial Planning 1, 2 & 3 – Chartered Insurance Institute 
+* GNVQ (Merit)
+* 7 GCSE’s
 
 
