@@ -60,11 +60,11 @@ Reporting directly to the Chief Marketing Officer, I was responsible for bringin
 **Partnership Assurance Group**  (Jan 2008 - Oct 2014)
 (now part of Just Retirement Group) – Provider of enhanced annuities for individuals with medical or lifestyle conditions
 
-**Business Support Manager**                                                                                      
+* **Business Support Manager**                                                                                      
 Jan 2012 – Jan 2014 
-**Internal Account Manager - Paying for Care**                                                            
+* **Internal Account Manager - Paying for Care**                                                            
 Oct 2011 – Jan 2012
-**Sales Account Manager (Retirement)**                                                                      
+* **Sales Account Manager (Retirement)**                                                                      
 Jan 2010 – Oct 2011                   
 
 ## Professional Achievements and Qualifications
