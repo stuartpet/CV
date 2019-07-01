@@ -34,21 +34,28 @@ Makers Academy -  a 16-week intensive development bootcamp, focusing on:
 * Pair programming
 * XP values
 
+---
 
 **B2E Technologies** (May 2018 - March 2019)
 b2e technologies (part of SBC Systems) is a SaaS company specialising in technology that helps manage employee benefit plans.
 
-**Senior Business Development Manager (London)**                                                    
-Working closely with the Director of Consulting and Client Relations I am solely responsible for building the b2e brand and taking our new platform (Rewarder) to market via Corporate Advisors, Employee Benefits Consultants, HR Platforms and Benefit Providers.                                                                    
+**Senior Business Development Manager (London)**                                                   
+Working closely with the Director of Consulting and Client Relations with sole responsible for building the b2e brand and taking the new platform (Rewarder) to market via Corporate Advisors, Employee Benefits Consultants, HR Platforms and Benefit Providers.     
+
+---
                                                                                                          
 **Planned Career Break** (April 2017 - April 2018)
 Project manager for a private property renovation project. Co-ordinated tradesmen, managed budget and timescales, from planning to delivery
+
+---
 
 **pensionsync** (Oct 2015 - April 2017)
 pensionsync (part of systemsync solutions Ltd) is an agile financial software company focused on delivering an Application Program Interface (API) solution for auto enrolment data transfer, integrating pension providers with payroll software
 
 **Senior Business Development Manager (London)**                                                        Oct 2015 – Apr 2017
 Reporting directly to the Chief Marketing Officer, I was responsible for bringing the pensionsync product and brand to the market. Prospecting, qualifying and securing new payroll software, middleware and HR partners along with increasing end user numbers 
+
+---
 
 **Partnership Assurance Group**  (Jan 2008 - Oct 2014)
 (now part of Just Retirement Group) – Provider of enhanced annuities for individuals with medical or lifestyle conditions
