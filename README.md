@@ -1,12 +1,21 @@
 ## Stuart Pethurst
 
-I am a former Business Development Manager with experience in taking new SaaS products to market within the fintech & employee benefits industry. Experience working in start-ups, mid-cap and large corporate organisations. I want to use my communication skills to work in a team to develop and build new and exciting technologies. 
+Makers Academy graduate with a passion for code and a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. Looking for a full stack Ruby/ Rails junior developer position.
 
 Winner of AXA’s Annual Global Innovation competition as a result of designing a new business generation app focussing on Big Data. Subsequently worked with a team of developers in Paris to produce a prototype using APIs to link wearable trackers to a benefit driven app to encourage better health and lower cost insurance.
 
 ## Key Skills
 
-#(Makers skills to be added) -- 
+* **Languages** - experience of Ruby, Rails, JavaScript, Swift, CSS and HTML
+* **Databases** - working knowledge of SQL, PostgreSQL, 
+* **Methodologies** - exclusively worked with TDD, OOD and CICD
+* **Testing** - Travis, Rspec, Jasmine, Capybara and other testing frameworks
+* **App design** -  Experience of IOS app design using Xcode 
+* **Communication** – skilled communicator with the ability to build rapport swiftly with new people and teams
+
+## Projects
+
+
 
 **B2B Business development**  – Prospecting, identify and qualifying new leads and converting these into business opportunities
 
