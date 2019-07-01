@@ -72,7 +72,7 @@ Jan 2010 – Oct 2011
 ## Professional Achievements and Qualifications
 * Graduate of Makers Academy
 * Certificate in Financial Planning 1, 2 & 3 – Chartered Insurance Institute 
-* GNVQ (Merit)
+* GNVQ Art and Design (Merit)
 * 7 GCSE’s
 
 
