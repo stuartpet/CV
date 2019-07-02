@@ -1,6 +1,6 @@
 ## Stuart Pethurst
 
-[Contact Details](#contact-details) | [Key Skills](#key-skills) | [Projects](#projects) | [Career History](#career-history) | [Professional Achievements and Qualifications](#professional-achievements-and-qualifications) | [LinkedIn](https://www.linkedin.com/in/stuartpethurst/)
+[Contact Details](#contact-details) | [Key Skills](#key-skills) | [Projects](#projects) | [Career History](#career-history) | [Professional Achievements and Qualifications](#professional-achievements-and-qualifications) | [LinkedIn](https://www.linkedin.com/in/stuartpethurst/) | [Hobbies and Interests](#hobbies-and-interests)
 
 Makers Academy graduate with a passion for code and a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. Looking for a full stack Ruby/ Rails Junior Developer position.
 
@@ -42,7 +42,7 @@ Makers Academy -  a 16-week intensive full stack development course at Londons l
 b2e technologies (part of SBC Systems) is a SaaS company specialising in technology to help manage employee benefit plans.
 
 * Senior Business Development Manager (London)                                                   
-Working closely with the Director of Consulting and Client Relations with sole responsible for building the b2e brand and taking the new platform (Rewarder) to market via Corporate Advisors, Employee Benefits Consultants, HR Platforms and Benefit Providers.     
+Sole responsibility for building the b2e brand and taking the new platform (Rewarder) to market via Corporate Advisors, Employee Benefits Consultants, HR Platforms and Benefit Providers.     
 
 ---
                                                                                                          
@@ -52,10 +52,10 @@ Project manager for a private property renovation project. Co-ordinated tradesme
 ---
 
 **pensionsync** (Oct 2015 - April 2017)
-pensionsync (part of systemsync solutions Ltd) is an agile financial software company focused on delivering an Application Program Interface (API) solution for auto enrolment data transfer, integrating pension providers with payroll software
+pensionsync (part of systemsync solutions Ltd) is an agile financial software company focused on delivering an (API) solution for auto enrolment data transfer, integrating pension providers with payroll software
 
 * Senior Business Development Manager (London)                                                       
-Reporting directly to the Chief Marketing Officer, I was responsible for bringing the pensionsync product and brand to the market. Prospecting, qualifying and securing new payroll software, middleware and HR partners along with increasing end user numbers 
+Working closely with the Chief Marketing Officer and dev team, I was responsible for bringing the pensionsync product and brand to the market. Prospecting, qualifying and securing new payroll software, middleware and HR partners along with increasing end user numbers 
 
 ---
 
@@ -76,6 +76,9 @@ Reporting directly to the Chief Marketing Officer, I was responsible for bringin
 * Certificate in Financial Planning 1, 2 & 3 – Chartered Insurance Institute 
 * GNVQ Art and Design (Merit)
 * 7 GCSE’s
+
+## Hobbies and Interests
+Avid golfer and movie fan, enjoy keeping in shape and love to spend time with my son and family
 
 ## Contact Details
 * Mobile 07890542502
