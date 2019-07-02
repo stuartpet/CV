@@ -59,6 +59,12 @@ Reporting directly to the Chief Marketing Officer, I was responsible for bringin
 
 ---
 
+**Architas Multi Manager** (subsidiary of AXA Plc) (Oct 2014 - Oct 2015) – Multi-manager investment company specialising in the management of multiple funds for individual investors
+
+**Distribution Executive** Responsible for driving sales of multi asset fund offering, working closely with the Sales Director & field-based sales colleagues to deliver targets
+
+---
+
 **Partnership Assurance Group**  (Jan 2008 - Oct 2014)
 (now part of Just Retirement Group) – Provider of enhanced annuities for individuals with medical or lifestyle conditions
 
