@@ -1,6 +1,6 @@
 ## Stuart Pethurst
 
-[Contact Details](#contact-details) | [Key Skills](#key-skills) | [Projects](#projects) | [Career History](#career-history) | [Professional Achievements and Qualifications](#professional-achievements-and-qualifications) | [LinkedIn](https://www.linkedin.com/in/stuartpethurst/) | [Hobbies and Interests](#hobbies-and-interests)
+[Key Skills](#key-skills) | [Projects](#projects) | [Career History](#career-history) | [Professional Achievements and Qualifications](#professional-achievements-and-qualifications) | [LinkedIn](https://www.linkedin.com/in/stuartpethurst/) | [Contact Details](#contact-details) | [Hobbies and Interests](#hobbies-and-interests)
 
 Makers Academy graduate with a passion for code and a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. Looking for a full stack Ruby/ Rails Junior Developer position.
 
