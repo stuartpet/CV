@@ -2,9 +2,10 @@
 
 [Key Skills](#key-skills) | [Career History](#career-history) | [LinkedIn](https://www.linkedin.com/in/stuartpethurst/) | [Contact Details](#contact-details) | [Hobbies and Interests](#hobbies-and-interests)
 
+<span style="font-size: .7rem">
 Software developer since August 2019 after a successful career change and graduating from Makers Academy. Previously 20 plus years working in the regulated finiancial industry with experience working in start-ups, mid-cap and large corporate organisations.
 
-I have a passion for code and am a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. I strongly believe that a good software developer strives to understand and learn holistic software development knowledge, not only a single specialized field area (eg aiming to develop T-shaped skills).
+<span style="font-size: .7rem">I have a passion for code and am a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. I strongly believe that a good software developer strives to understand and learn holistic software development knowledge, not only a single specialized field area (eg aiming to develop T-shaped skills).
 
 
 ### Key Skills
@@ -17,7 +18,7 @@ I have a passion for code and am a natural problem solver. Highly motivated with
 * **App design** -  Experience of IOS app design using Xcode 
 * **Communication** – skilled communicator with the ability to build rapport swiftly with new people and teams  	
 
-## Career History
+### Career History
 
 **SmartPension** (August 2019 - present)
 Smart Pension is a pensions and retirement technology business, delivering pensions technology platforms in partnership with other financial institutions, and running a defined contribution master trust pension scheme setup for employers to enrol employees in a workplace pension scheme.
@@ -72,12 +73,12 @@ Working closely with the Chief Marketing Officer and dev team, I was responsible
 * **Internal Account Manager - Paying for Care** (Oct 2011 – Jan 2012)                                                          
 * **Sales Account Manager (Retirement)** (Jan 2010 – Oct 2011)                                                                                       
 
-## Hobbies and Interests
+### Hobbies and Interests
 Avid golfer and movie fan, enjoy keeping in shape and love to spend time with my son and family
 
-## Contact Details
+### Contact Details
 * Mobile 07890542502
-* Email stuart.pethurst@gmail.com
+* Email stuart.pethurst@gmail.com</span>
 
 
 
