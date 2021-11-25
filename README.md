@@ -1,31 +1,31 @@
 ## Stuart Pethurst
 
-[Key Skills](#key-skills) | [Projects](#projects) | [Career History](#career-history) | [Professional Achievements and Qualifications](#professional-achievements-and-qualifications) | [LinkedIn](https://www.linkedin.com/in/stuartpethurst/) | [Contact Details](#contact-details) | [Hobbies and Interests](#hobbies-and-interests)
+[Key Skills](#key-skills) | [Career History](#career-history) | [LinkedIn](https://www.linkedin.com/in/stuartpethurst/) | [Contact Details](#contact-details) | [Hobbies and Interests](#hobbies-and-interests)
 
-Makers Academy graduate with a passion for code and a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. Looking for a full stack Ruby/ Rails Junior Developer position.
+Software developer since August 2019 after a successful career change and graduating from Makers Academy. Previously 20 plus years working in the regulated finiancial industry with experience working in start-ups, mid-cap and large corporate organisations.
 
-Previously a B2B Sales professional with 10 years experience in taking new SaaS products to market within the fintech & employee benefits industry. Experience working in start-ups, mid-cap and large corporate organisations.   
+I have a passion for code and am a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. I strongly believe that a good software developer strives to understand and learn holistic software development knowledge, not only a single specialized field area (eg aiming to develop T-shaped skills).
 
-Winner of AXA’s Annual Global Innovation competition as a result of designing a new business generation app focussing on Big Data. Subsequently worked with a team of developers in Paris to produce a prototype using APIs to link wearable trackers to a benefit driven app to encourage better health and lower cost insurance.
 
 ### Key Skills
 
-* **Languages** - experience of Ruby, Rails, JavaScript, Swift, CSS and HTML
-* **Databases** - working knowledge of SQL, PostgreSQL, 
-* **Methodologies** - exclusively worked with TDD, OOD and CICD
-* **Testing** - Travis, Rspec, Jasmine, Capybara and other testing frameworks
+* **Languages** - Ruby, Ruby on Rails, JavaScript, Swift, CSS and HTML
+* **Databases** - SQL, PostgreSQL, MySQL
+* **Other** - Heroku, AWS, Docker, Docker Compose, Event Storming
+* **Methodologies** - exclusively worked with TDD, OOD, CICD, Agile and Kanban
+* **Testing** - Travis, Rspec, Jasmine, Capybara, semaphoreci
 * **App design** -  Experience of IOS app design using Xcode 
-* **Communication** – skilled communicator with the ability to build rapport swiftly with new people and teams
-
-## Projects
-For a complete list, see my [GitHub](https://github.com/stuartpet?tab=repositories)
-
-| Projects  	| Description                                              	| Technologies 	|   
-|:---------:	|:--------------------------------------------------------:	|:------------:	|
-| [Acebook](https://github.com/stuartpet/acebook-steam)         	|   A facebook clone team project to help learn CICD  |   Travis, Heruko, Rails, Rspec Devise, CSS, HTML           	| 
-| [Stargazer](https://github.com/jo-quin/stargazer)          	|   Final project, built a stargazing IOS augmented reality app, teaching ourselves xcode, swift and astrology in 2 weeks                                                    	|  Swift, Xcode, ARkit, SceneKit          	|   	
+* **Communication** – skilled communicator with the ability to build rapport swiftly with new people and teams  	
 
 ## Career History
+
+**SmartPension** (August 2019 - present)
+Smart Pension is a pensions and retirement technology business, delivering pensions technology platforms in partnership with other financial institutions, and running a defined contribution master trust pension scheme setup for employers to enrol employees in a workplace pension scheme.
+
+* Mid Level Ruby Developer (London)                                                   
+Building features using ruby on rails to improve the end user experiance for mutiple platforms that are used across the globe by finicial instatutions, advisors and direct with employers. Day to day I also work on bug fixing, tech debt and interviewing new developers
+
+---
 
 **Makers Academy** (March 2019 - June 2019)
 Makers Academy -  a 16-week intensive full stack development course at Londons leading software devlopment bootcamp, focusing on:
@@ -71,11 +71,6 @@ Working closely with the Chief Marketing Officer and dev team, I was responsible
 * **Business Support Manager** (Jan 2012 – Jan 2014)                                                                                    
 * **Internal Account Manager - Paying for Care** (Oct 2011 – Jan 2012)                                                          
 * **Sales Account Manager (Retirement)** (Jan 2010 – Oct 2011)                                                                                       
-## Professional Achievements and Qualifications
-* Graduate of Makers Academy
-* Certificate in Financial Planning 1, 2 & 3 – Chartered Insurance Institute 
-* GNVQ Art and Design (Merit)
-* 7 GCSE’s
 
 ## Hobbies and Interests
 Avid golfer and movie fan, enjoy keeping in shape and love to spend time with my son and family
