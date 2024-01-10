@@ -27,7 +27,17 @@ Smart Pension is a pensions and retirement technology business, delivering pensi
 Developed and implemented Ruby on Rails features across multiple global platforms used by financial institutions, advisors, and employers, significantly enhancing end-user experience and streamlining operations.
 
 * Recent work:
-  * modularisation of the monolith using rails engines to split it into domains, utilising packwerk to manage boundaries between the engines and the main monolith code to avoid duplication and ensure correct namespacing. We made sure to have a structured approach to moving the code around starting with models, and constants. At first, to avoid the new namespaced models causing database issues with tables not being recognised we made sure to utilise the table_name() method setting it manually to match the correct table names that exist. We then moved on to the logic and specs and factories, moving only essential code that would not be needed in the monolith into the engine so as not to create carbon copies of units in both places.
+  * modularisation of the monolith using rails engines to split it into domains.
+  Before migrating any of the units from the monolith to the engine, we moved all technical requirements Constants, Packwerk, Zeitwerk, 
+  Containers the core model(s) the model’s factory and specs and updated any references to this model throughout the monolith
+
+  At Smart, we use an EntryPoint and Units setup which means the migration of each unit was split into 3 sub-tasks:
+  * move any models, associated specs and factories, and references to the moved model
+  * move queries and dependencies
+  * move units, sub-tasks, authorizers, validators, forms and associated specs
+
+  We then performed some post-modularisation tasks using packwerk's to-do list function.
+    
   * The introduction of a feature to allow users to input bank details into a secure vault for use with pension payments
 
 ---
