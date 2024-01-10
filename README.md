@@ -26,10 +26,11 @@ Smart Pension is a pensions and retirement technology business, delivering pensi
 * Mid Level Ruby Developer (London)                                                   
 Developed and implemented Ruby on Rails features across multiple global platforms used by financial institutions, advisors, and employers, significantly enhancing end-user experience and streamlining operations.
 
-* Recent work:
-  * modularisation of the monolith using rails engines to split it into domains.
-  Before migrating any of the units from the monolith to the engine, we moved all technical requirements Constants, Packwerk, Zeitwerk, 
-  Containers the core model(s) the model’s factory and specs and updated any references to this model throughout the monolith
+  **Recent work**:
+  
+  **Modularisation of the monolith using rails engines to split it into domains**
+   * Before migrating any of the units from the monolith to the engine, we moved all technical requirements Constants, Packwerk, Zeitwerk, 
+   Containers the core model(s) the model’s factory and specs and updated any references to this model throughout the monolith
 
   Smart uses an EntryPoint and Units setup which means the migration of each unit was split into 3 sub-tasks:
   * move any models, associated specs and factories, and references to the moved model
@@ -38,10 +39,12 @@ Developed and implemented Ruby on Rails features across multiple global platform
 
   We then performed some post-modularisation tasks using packwerk's to-do list function.
     
-  * Store multiple sensitive bank account numbers securely
-    The original design was created to support only one sensitive account per resource. To store multiple bank accounts per resource we 
-    needed to decouple the bank account details in the vault service from the single resource and allow them to be saved with a UUID  
-    (Universally Unique Identifier) meaning we can save multiple sensitive account details to one resource. 
+**Store multiple sensitive bank account numbers securely**
+* The original design was created to support only one sensitive account per resource. To store multiple bank accounts per resource we 
+  needed to decouple the bank account details in the vault (a service provided by HashiCorp) from the single resource and allow them to be 
+ saved with a UUID (Universally Unique Identifier) meaning we can save multiple sensitive account details to one resource. This approach  
+ meant refactoring not only the way we save the data to the vault but also the way we retrieve it across the platform where this data was  
+ required.
 
 ---
 
