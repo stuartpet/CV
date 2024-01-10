@@ -38,7 +38,10 @@ Developed and implemented Ruby on Rails features across multiple global platform
 
   We then performed some post-modularisation tasks using packwerk's to-do list function.
     
-  * The introduction of a feature to allow users to input bank details into a secure vault for use with pension payments
+  * Store multiple sensitive bank account numbers securely
+    The original design was created to support only one sensitive account per resource. To store multiple bank accounts per resource we 
+    needed to decouple the bank account details in the vault service from the single resource and allow them to be saved with a UUID  
+    (Universally Unique Identifier) meaning we can save multiple sensitive account details to one resource. 
 
 ---
 
