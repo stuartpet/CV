@@ -26,7 +26,7 @@ Smart Pension is a pensions and retirement technology business, delivering pensi
 * Mid Level Ruby Developer (London)                                                   
 Developed and implemented Ruby on Rails features across multiple global platforms used by financial institutions, advisors, and employers, significantly enhancing end-user experience and streamlining operations.
 
-* Recent work includes the following:
+* Recent work:
   * modularisation of the monolith using rails engines to split it into domains, utilising packwerk to manage boundaries between the engines and the main monolith code to avoid duplication and ensure correct namespacing. We made sure to have a structured approach to moving the code around starting with models, and constants. At first, to avoid the new namespaced models causing database issues with tables not being recognised we made sure to utilise the table_name() method setting it manually to match the correct table names that exist. We then moved on to the logic and specs and factories, moving only essential code that would not be needed in the monolith into the engine so as not to create carbon copies of units in both places.
   * The introduction of a feature to allow users to input bank details into a secure vault for use with pension payments
 
