@@ -31,7 +31,7 @@ Developed and implemented Ruby on Rails features across multiple global platform
   Before migrating any of the units from the monolith to the engine, we moved all technical requirements Constants, Packwerk, Zeitwerk, 
   Containers the core model(s) the model’s factory and specs and updated any references to this model throughout the monolith
 
-  At Smart, we use an EntryPoint and Units setup which means the migration of each unit was split into 3 sub-tasks:
+  Smart uses an EntryPoint and Units setup which means the migration of each unit was split into 3 sub-tasks:
   * move any models, associated specs and factories, and references to the moved model
   * move queries and dependencies
   * move units, sub-tasks, authorizers, validators, forms and associated specs
