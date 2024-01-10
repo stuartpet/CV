@@ -13,7 +13,7 @@ Software developer since August 2019 after a successful career change and gradua
 * **Languages** - Ruby, Ruby on Rails, JavaScript, Swift, CSS, and HTML
 * **Databases** - SQL, PostgreSQL, MySQL
 * **Other** - Heroku, AWS, Docker, Docker Compose, Event Storming, and packwerk
-* **Methodologies** - exclusively worked with TDD, OOD, CICD, Agile, and Kanban
+* **Methodologies** - exclusively worked with TDD, OOD, DDD, CICD, Agile, and Kanban
 * **Testing** - Travis, Rspec, Jasmine, Capybara, semaphoreci
 * **App design** -  Experience of IOS app design using Xcode
 * **Communication** – skilled communicator with the ability to build rapport swiftly with new people and teams  	
@@ -27,7 +27,7 @@ Smart Pension is a pensions and retirement technology business, delivering pensi
 Developed and implemented Ruby on Rails features across multiple global platforms used by financial institutions, advisors, and employers, significantly enhancing end-user experience and streamlining operations.
 
 * Recent work includes the following:
-  * modularisation of the monolith using rails engines to split it into domains
+  * modularisation of the monolith using rails engines to split it into domains, utilising packwerk to manage boundaries between the engines and the main monolith code to avoid duplication and ensure correct namespacing. We made sure to have a structured approach to moving the code around starting with models, and constants. At first, to avoid the new namespaced models causing database issues with tables not being recognised we made sure to utilise the table_name() method setting it manually to match the correct table names that exist. We then moved on to the logic and specs and factories, moving only essential code that would not be needed in the monolith into the engine so as not to create carbon copies of units in both places.
   * The introduction of a feature to allow users to input bank details into a secure vault for use with pension payments
 
 ---
