@@ -40,7 +40,6 @@ Implemented features across multiple global platforms used by financial institut
  
   * This approach meant refactoring not only the way we save the data to the Vault but also the way we retrieve it across the platform
     where this data was required.  
-
 ---
 
 **Makers Academy** (March 2019 - June 2019)
@@ -51,32 +50,27 @@ Makers Academy -  a 16-week intensive full-stack development course at London's 
 * Test-driven development and behavior-driven development
 * Pair programming
 * XP values
-
 ---
 
 **B2E Technologies** (May 2018 - March 2019)
 b2e Technologies (part of SBC Systems) is a SaaS company specializing in technology to help manage employee benefit plans.
 
-* **Senior Business Development Manager**  
-
+* **Senior Business Development Manager**
 ---
                                                                                                          
 **Planned Career Break** (April 2017 - April 2018)
-Project manager for a private property renovation project. Co-ordinated tradesmen, and managed budget and timescales, from planning to delivery
-
+* Project manager for a private property renovation project. Co-ordinated tradesmen, and managed budget and timescales, from planning to delivery
 ---
 
 **pensionsync** (Oct 2015 - April 2017)
 pensionsync (part of Systemsync Solutions Ltd) is an agile financial software company focused on delivering an (API) solution for auto-enrolment data transfer, integrating pension providers with payroll software
 
 * **Senior Business Development Manager**                                                     
-
 ---
 
 **Architas Multi-Manager** (a subsidiary of AXA Plc) (Oct 2014 - Oct 2015) – Multi-manager investment company specialising in the management of multiple funds for individual investors
 
 * **Distribution Executive**
-
 ---
 
 **Partnership Assurance Group**  (Jan 2008 - Oct 2014)
@@ -85,7 +79,6 @@ pensionsync (part of Systemsync Solutions Ltd) is an agile financial software co
 * **Business Support Manager** (Jan 2012 – Jan 2014)                                                                                    
 * **Internal Account Manager - Paying for Care** (Oct 2011 – Jan 2012)                                                          
 * **Sales Account Manager (Retirement)** (Jan 2010 – Oct 2011)                                                                                       
-
 ### Hobbies and Interests
 Avid golfer and movie fan, enjoy keeping in shape, and love to spend time with my partner, two sons, and family
 
