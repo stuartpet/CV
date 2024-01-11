@@ -12,40 +12,34 @@ Software developer since August 2019 after a successful career change and gradua
 
 * **Languages** - Ruby, Ruby on Rails, JavaScript, Swift, CSS, and HTML
 * **Databases** - SQL, PostgreSQL, MySQL
-* **Other** - Heroku, AWS, Docker, Docker Compose, Event Storming, and packwerk
-* **Methodologies** - exclusively worked with TDD, OOD, DDD, CICD, Agile, and Kanban
-* **Testing** - Travis, Rspec, Jasmine, Capybara, semaphoreci
+* **Methodologies** - TDD, OOD, DDD, CICD, Agile, and Kanban
+* **Testing** - Travis-CI, Semaphore CI, Rspec, Capybara, Jasmine
 * **App design** -  Experience of IOS app design using Xcode
-* **Communication** – skilled communicator with the ability to build rapport swiftly with new people and teams  	
+* **Communication** – skilled communicator with the ability to build rapport swiftly with new people and teams
+* **Other** - Heroku, AWS, Docker, Docker Compose, Event Storming, and Packwerk	
 
 ### Career History
 
-**SmartPension** (August 2019 - present)
+**Smart Pension** (August 2019 - present)
 Smart Pension is a pensions and retirement technology business, delivering pensions technology platforms in partnership with other financial institutions, and running a defined contribution master trust pension scheme set up for employers to enroll employees in a workplace pension scheme.
 
 * Mid Level Ruby Developer (London)                                                   
-Developed and implemented Ruby on Rails features across multiple global platforms used by financial institutions, advisors, and employers, significantly enhancing end-user experience and streamlining operations.
+Implemented features across multiple global platforms used by financial institutions, advisors, and employers, significantly enhancing the end-user experience and streamlining operations.
 
   **Recent work**:
   
   **Modularisation of the monolith using rails engines to split it into domains**
-   * Before migrating any of the units from the monolith to the engine, we moved all technical requirements Constants, Packwerk, Zeitwerk, 
-   Containers the core model(s) the model’s factory and specs and updated any references to this model throughout the monolith
-
-  Smart uses an EntryPoint and Units setup which means the migration of each unit was split into 3 sub-tasks:
-  * move any models, associated specs and factories, and references to the moved model
-  * move queries and dependencies
-  * move units, sub-tasks, authorizers, validators, forms and associated specs
-
-  We then performed some post-modularisation tasks using packwerk's to-do list function.
+   * I was responsible for extracting the business logic related to benefit creation from the 10+ years monolith into an engine with extra  
+   work to prepare it for moving to a service. This reduced the number of PRs requiring external review by 23% and made the onboarding of 
+   new developers much easier.
     
   **Store multiple sensitive bank account numbers securely**
    * The original design was created to support only one sensitive account per resource. To store multiple bank accounts per resource we 
-    needed to decouple the bank account details in the vault (a service provided by HashiCorp) from the single resource and allow them to
-    be saved with a UUID (Universally Unique Identifier) meaning we can save multiple sensitive account details to one resource.
+    needed to decouple the bank account details in the Vault from the single resource and allow them to
+    be saved with a UUID meaning we can save multiple sensitive account details to one resource.
  
-  * This approach meant refactoring not only the way we save the data to the vault but also the way we retrieve it across the platform
-    where this data was required.
+  * This approach meant refactoring not only the way we save the data to the Vault but also the way we retrieve it across the platform
+    where this data was required.  
 
 ---
 
@@ -63,8 +57,7 @@ Makers Academy -  a 16-week intensive full-stack development course at London's 
 **B2E Technologies** (May 2018 - March 2019)
 b2e Technologies (part of SBC Systems) is a SaaS company specializing in technology to help manage employee benefit plans.
 
-* Senior Business Development Manager (London)                                                   
-The sole responsibility for building the b2e brand and taking the new platform (Rewarder) to market via Corporate Advisors, Employee Benefits Consultants, HR Platforms, and Benefit Providers.     
+* **Senior Business Development Manager**  
 
 ---
                                                                                                          
@@ -76,14 +69,13 @@ Project manager for a private property renovation project. Co-ordinated tradesme
 **pensionsync** (Oct 2015 - April 2017)
 pensionsync (part of Systemsync Solutions Ltd) is an agile financial software company focused on delivering an (API) solution for auto-enrolment data transfer, integrating pension providers with payroll software
 
-* Senior Business Development Manager (London)                                                       
-Working closely with the Chief Marketing Officer and dev team, I was responsible for bringing the pensionsync product and brand to the market. Prospecting, qualifying, and securing new payroll software, middleware, and HR partners along with increasing end-user numbers 
+* **Senior Business Development Manager**                                                     
 
 ---
 
-**Architas Multi-Manager** (subsidiary of AXA Plc) (Oct 2014 - Oct 2015) – Multi-manager investment company specialising in the management of multiple funds for individual investors
+**Architas Multi-Manager** (a subsidiary of AXA Plc) (Oct 2014 - Oct 2015) – Multi-manager investment company specialising in the management of multiple funds for individual investors
 
-* Distribution Executive Responsible for driving sales of multi-asset fund offering, working closely with the Sales Director & field-based sales colleagues to deliver targets
+* **Distribution Executive**
 
 ---
 
@@ -95,11 +87,8 @@ Working closely with the Chief Marketing Officer and dev team, I was responsible
 * **Sales Account Manager (Retirement)** (Jan 2010 – Oct 2011)                                                                                       
 
 ### Hobbies and Interests
-Avid golfer and movie fan, enjoy keeping in shape, and love to spend time with my partner, two sons and family
+Avid golfer and movie fan, enjoy keeping in shape, and love to spend time with my partner, two sons, and family
 
 ### Contact Details
-* Mobile 07890542502
 * Email stuart.pethurst@gmail.com</span>
-
-
 
