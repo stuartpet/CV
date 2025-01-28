@@ -20,14 +20,27 @@ Software developer since August 2019 after a successful career change and gradua
 
 ### Career History
 
-**Smart Pension** (August 2019 - present)
+**ColossusBets** (April 2024 - Present) ColossusBets is a leading global provider of sports betting and lottery-style jackpot games, offering innovative features such as cash-out and syndicate betting. The platform is renowned for its engaging user experience and wide range of pool betting options across sports and esports.
+
+**Recent work:**
+
+ **System Upgrades**
+  * Configured and updated the Sidekiq setup, integrating it with a custom single sign-on (SSO) platform to enhance security and streamline user authentication.
+  * Successfully upgraded the platform from Rails 6 to Rails 7, addressing compatibility issues, updating dependencies, and ensuring a smooth transition.
+  * Upgraded and refactored Kafka implementations, ensuring efficient consumer operations.
+
+  **Push Notifications**
+  * Implemented Kafka topics and custom consumers for a new U.S. platform launch, triggering notifications based on user interactions.
+
+  **Database Improvements**
+  * Resolved N+1 query issues flagged by Scout APM, significantly improving database performance and scalability.
+---
+
+**Smart Pension** (August 2019 - January 2024)
 Smart Pension is a pensions and retirement technology business, delivering pensions technology platforms in partnership with other financial institutions, and running a defined contribution master trust pension scheme set up for employers to enroll employees in a workplace pension scheme.
-
-* Mid Level Ruby Developer (London)                                                   
+ 
 Implemented features across multiple global platforms used by financial institutions, advisors, and employers, significantly enhancing the end-user experience and streamlining operations.
-
-  **Recent work**:
-  
+ 
   **Modularisation of the monolith using rails engines to split it into domains**
    * I was responsible for extracting the business logic related to benefit creation from the 10+ years monolith into an engine with extra  
    work to prepare it for moving to a service. This reduced the number of PRs requiring external review by 23% and made the onboarding of 
@@ -84,4 +97,3 @@ Avid golfer and movie fan, enjoy keeping in shape, and love to spend time with m
 
 ### Contact Details
 * Email stuart.pethurst@gmail.com</span>
-
