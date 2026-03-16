@@ -1,110 +1,123 @@
-## Stuart Pethurst
+# Stuart Pethurst
+### Senior Ruby / Rails Developer  
+London, UK  
 
-[Key Skills](#key-skills) | [Career History](#career-history) | [LinkedIn](https://www.linkedin.com/in/stuartpethurst/) | [Contact Details](#contact-details) | [Hobbies and Interests](#hobbies-and-interests)
+📧 stuart.pethurst@gmail.com  
+🔗 https://www.linkedin.com/in/stuartpethurst/  
 
-<span style="font-size: .7rem">
-Software developer since August 2019 after a successful career change and graduating from Makers Academy. Previously 20 plus years working in the regulated financial industry with experience working in start-ups, mid-cap, and large corporate organisations.
-
-<span style="font-size: .7rem">I have a passion for code and am a natural problem solver. Highly motivated with a huge will to learn and continually expand knowledge. I strongly believe that a good software developer is a collaborative developer who wants to pass on accumulated knowledge and strives to understand and learn holistic software development knowledge, not only a single specialized field area (eg aiming to develop T-shaped skills).
-
-
-### Key Skills
-
-* **Languages** - Ruby, Ruby on Rails, JavaScript, Swift, CSS, and HTML
-* **Databases** - SQL, PostgreSQL, MySQL
-* **Methodologies** - TDD, OOD, DDD, CICD, Agile, and Kanban
-* **Testing** - Travis-CI, Semaphore CI, Rspec, Capybara, Jasmine
-* **App design** -  Experience of IOS app design using Xcode
-* **Communication** – skilled communicator with the ability to build rapport swiftly with new people and teams
-* **Other** - Heroku, AWS, Docker, Docker Compose, Event Storming, and Packwerk	
-
-### Career History
-
-**AlphaTiming** (October 2025 - March 2026) Alpha was created to make it easier for motorsport event organisers to manage large events at scale.
-
-**Recent work:**
-
- **BugFixing**
-  * As the company was scaled fast, there was a lot of legacy code that was causing bugs and problems with the system that had to be fixed      to keep it working smoothly for the users.
-
- **Feature development**
-  * Working on new features to improve the user experience of the application, which includes adding better validations to imports into the    system, improving the UI to be clean and more user-friendly, fixing hardcoded text and using locals for translations for a single point     of change.
 ---
 
-**ColossusBets** (April 2024 - October 2025) ColossusBets is a leading global provider of sports betting and lottery-style jackpot games, offering innovative features such as cash-out and syndicate betting. The platform is renowned for its engaging user experience and wide range of pool betting options across sports and esports.
+## Professional Summary
 
-**Recent work:**
+Backend-focused Ruby on Rails developer with 5+ years of professional experience building and maintaining large-scale production systems. Previously spent 20 years in regulated financial services before transitioning into software engineering.
 
- **System Upgrades**
-  * Configured and updated the Sidekiq setup, integrating it with a custom single sign-on (SSO) platform to enhance security and streamline user authentication.
-  * Successfully upgraded the platform from Rails 6 to Rails 7, addressing compatibility issues, updating dependencies, and ensuring a smooth transition.
-  * Upgraded and refactored Kafka implementations, ensuring efficient consumer operations.
+Experienced in improving legacy systems, scaling backend architecture, and delivering secure and performant applications. Strong advocate of collaborative development, TDD, and pragmatic engineering practices.
 
-  **Push Notifications**
-  * Implemented Kafka topics and custom consumers for a new U.S. platform launch, triggering notifications based on user interactions.
-
-  **Database Improvements**
-  * Resolved N+1 query issues flagged by Scout APM, significantly improving database performance and scalability.
 ---
 
-**Smart Pension** (August 2019 - January 2024)
-Smart Pension is a pensions and retirement technology business, delivering pensions technology platforms in partnership with other financial institutions, and running a defined contribution master trust pension scheme set up for employers to enroll employees in a workplace pension scheme.
- 
-Implemented features across multiple global platforms used by financial institutions, advisors, and employers, significantly enhancing the end-user experience and streamlining operations.
- 
-  **Modularisation of the monolith using Rails engines to split it into domains**
-   * I was responsible for extracting the business logic related to benefit creation from the 10+ years monolith into an engine with extra  
-   work to prepare it for moving to a service. This reduced the number of PRs requiring external review by 23% and made the onboarding of 
-   new developers much easier.
-    
-  **Store multiple sensitive bank account numbers securely**
-   * The original design was created to support only one sensitive account per resource. To store multiple bank accounts per resource we 
-    needed to decouple the bank account details in the Vault from the single resource and allow them to
-    be saved with a UUID meaning we can save multiple sensitive account details to one resource.
- 
-  * This approach meant refactoring not only the way we save the data to the Vault but also the way we retrieve it across the platform
-    where this data was required.  
+## Core Technical Skills
+
+**Languages**  
+Ruby, JavaScript, Swift, HTML, CSS  
+
+**Frameworks**  
+Ruby on Rails  
+
+**Databases**  
+PostgreSQL, MySQL, SQL  
+
+**Architecture & Practices**  
+TDD • CI/CD • Domain Driven Design • Event Storming • Agile • Kanban  
+
+**Testing**  
+RSpec • Capybara • Jasmine  
+
+**Infrastructure & Tools**  
+Docker • Docker Compose • AWS • Heroku • Kafka • Packwerk  
+
 ---
 
-**Makers Academy** (March 2019 - June 2019)
-Makers Academy -  a 16-week intensive full-stack development course at London's leading software development boot camp, focusing on:
+## Professional Experience
 
-* Agile methodologies
-* Object-oriented design
-* Test-driven development and behavior-driven development
-* Pair programming
-* XP values
+### AlphaTiming  
+**Software Developer**  
+Oct 2025 – Mar 2026  
+
+AlphaTiming provides software for motorsport event organisers to manage race timing and large-scale event logistics.
+
+**Key Contributions**
+
+- Stabilised a rapidly scaling system by fixing legacy bugs and improving reliability
+- Improved data import validation to prevent inconsistent event data
+- Enhanced UI usability by removing hardcoded text and implementing localisation support
+- Delivered incremental improvements across the codebase to improve maintainability
+
 ---
 
-**B2E Technologies** (May 2018 - March 2019)
-b2e Technologies (part of SBC Systems) is a SaaS company specializing in technology to help manage employee benefit plans.
+### ColossusBets  
+**Software Developer**  
+Apr 2024 – Oct 2025  
 
-* **Senior Business Development Manager**
----
-                                                                                                         
-**Planned Career Break** (April 2017 - April 2018)
-* Project manager for a private property renovation project. Co-ordinated tradesmen, and managed budget and timescales, from planning to delivery
----
+Global betting platform providing pool betting and jackpot games across sports and esports.
 
-**pensionsync** (Oct 2015 - April 2017)
-pensionsync (part of Systemsync Solutions Ltd) is an agile financial software company focused on delivering an (API) solution for auto-enrolment data transfer, integrating pension providers with payroll software
+**Key Contributions**
 
-* **Senior Business Development Manager**                                                     
----
+- Upgraded the core platform from **Rails 6 to Rails 7**
+- Implemented **Kafka-based event consumers** for US platform push notifications
+- Integrated **Sidekiq with custom SSO authentication**
+- Identified and resolved **N+1 database queries** using Scout APM
 
-**Architas Multi-Manager** (a subsidiary of AXA Plc) (Oct 2014 - Oct 2015) – Multi-manager investment company specialising in the management of multiple funds for individual investors
-
-* **Distribution Executive**
 ---
 
-**Partnership Assurance Group**  (Jan 2008 - Oct 2014)
-(now part of Just Retirement Group) – Provider of enhanced annuities for individuals with medical or lifestyle conditions
+### Smart Pension  
+**Software Developer**  
+Aug 2019 – Jan 2024  
 
-* **Business Support Manager** (Jan 2012 – Jan 2014)                                                                                    
-* **Internal Account Manager - Paying for Care** (Oct 2011 – Jan 2012)                                                          
-* **Sales Account Manager (Retirement)** (Jan 2010 – Oct 2011)                                                                                       
-### Hobbies and Interests
-Avid golfer and movie fan, enjoy keeping in shape, and love to spend time with my partner, two sons, and family
+Large-scale pension technology platform used by financial institutions, advisors, and employers.
 
-### Contact Details
-* Email stuart.pethurst@gmail.com</span>
+**Key Contributions**
+
+**Monolith modularisation**
+
+- Extracted benefit creation logic from a **10+ year Rails monolith into a domain engine**
+- Reduced cross-team PR reviews by **23%**
+- Improved developer onboarding and maintainability
+
+**Secure financial data architecture**
+
+- Designed a system allowing **multiple encrypted bank accounts per resource**
+- Implemented Vault storage using UUID identifiers
+- Refactored data retrieval logic across the platform
+
+---
+
+## Education
+
+### Makers Academy  
+Full-Stack Software Development Bootcamp  
+2019
+
+Focus areas:
+
+- Test Driven Development
+- Object-Oriented Design
+- Pair Programming
+- Agile & XP Practices
+
+---
+
+## Earlier Career
+
+Before software engineering, I spent over 20 years in financial services, including roles at:
+
+- Architas (AXA subsidiary)
+- Partnership Assurance
+- pensionsync
+
+Worked in business development, distribution, and financial technology partnerships.
+
+---
+
+## Interests
+
+Golf • Fitness • Film • Spending time with family
