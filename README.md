@@ -1,7 +1,5 @@
 # Stuart Pethurst
 
-London, UK  
-
 stuart.pethurst@gmail.com  
 https://www.linkedin.com/in/stuartpethurst/  
 
