@@ -1,5 +1,5 @@
 # Stuart Pethurst
-### Senior Ruby / Rails Developer  
+
 London, UK  
 
 stuart.pethurst@gmail.com  
