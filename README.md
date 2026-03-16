@@ -2,8 +2,8 @@
 ### Senior Ruby / Rails Developer  
 London, UK  
 
-📧 stuart.pethurst@gmail.com  
-🔗 https://www.linkedin.com/in/stuartpethurst/  
+stuart.pethurst@gmail.com  
+https://www.linkedin.com/in/stuartpethurst/  
 
 ---
 
