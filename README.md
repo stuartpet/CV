@@ -20,7 +20,18 @@ Software developer since August 2019 after a successful career change and gradua
 
 ### Career History
 
-**ColossusBets** (April 2024 - Present) ColossusBets is a leading global provider of sports betting and lottery-style jackpot games, offering innovative features such as cash-out and syndicate betting. The platform is renowned for its engaging user experience and wide range of pool betting options across sports and esports.
+**AlphaTiming** (October 2025 - March 2026) Alpha was created to make it easier for motorsport event organisers to manage large events at scale.
+
+**Recent work:**
+
+ **BugFixing**
+ As the company was scaled fast, there was a lot of legacy code that was causing bugs and problems with the system that had to be fixed      to keep it working smoothly for the users.
+
+ **Feature development**
+ Working on new features to improve the user experience of the application, which includes adding better validations to imports into the     system, improving the UI to be clean and more user-friendly, fixing hardcoded text and using locals for translations for a single point of  change.
+---
+
+**ColossusBets** (April 2024 - October 2025) ColossusBets is a leading global provider of sports betting and lottery-style jackpot games, offering innovative features such as cash-out and syndicate betting. The platform is renowned for its engaging user experience and wide range of pool betting options across sports and esports.
 
 **Recent work:**
 
@@ -41,7 +52,7 @@ Smart Pension is a pensions and retirement technology business, delivering pensi
  
 Implemented features across multiple global platforms used by financial institutions, advisors, and employers, significantly enhancing the end-user experience and streamlining operations.
  
-  **Modularisation of the monolith using rails engines to split it into domains**
+  **Modularisation of the monolith using Rails engines to split it into domains**
    * I was responsible for extracting the business logic related to benefit creation from the 10+ years monolith into an engine with extra  
    work to prepare it for moving to a service. This reduced the number of PRs requiring external review by 23% and made the onboarding of 
    new developers much easier.
